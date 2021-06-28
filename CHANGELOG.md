@@ -2,6 +2,11 @@
 
 <!--next-version-placeholder-->
 
+## v1.4.0 (2021-06-28)
+### Feature
+* **fea2:** This is fea2 ([`5a89893`](https://github.com/guiferviz/test-semantic-release/commit/5a89893186b633fd76a51ebdc17228e502ec2c45))
+* **fea1:** This is fea1 ([`e302369`](https://github.com/guiferviz/test-semantic-release/commit/e302369b186303f9685381ae92158682bf4e01b4))
+
 ## v1.3.0 (2021-06-28)
 ### Feature
 * New feature ([`99f739b`](https://github.com/guiferviz/test-semantic-release/commit/99f739be59f81f6446c8ffa931960594ceb484f1))
