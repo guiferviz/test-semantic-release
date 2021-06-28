@@ -2,6 +2,11 @@
 
 <!--next-version-placeholder-->
 
+## v1.2.0 (2021-06-28)
+### Feature
+* Another chachi feature ([`bebb3a2`](https://github.com/guiferviz/test-semantic-release/commit/bebb3a26b51fa9619a2d116fcf830e0a6f9226e5))
+* Chachi feature ([`742211f`](https://github.com/guiferviz/test-semantic-release/commit/742211fb1b21700ee3210ced6f5ffda47f914fc1))
+
 ## v1.1.0 (2021-06-28)
 ### Feature
 * Adding feature back ([`5e2a441`](https://github.com/guiferviz/test-semantic-release/commit/5e2a441630e874f325f57ef4ac7110166c1b64b0))
